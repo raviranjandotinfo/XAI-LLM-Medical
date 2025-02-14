@@ -1,4 +1,6 @@
-# Installing required liabaries
+# Goal is to fine-tuned the Llama 3.1 with custom datasets. 
+
+# Installing required liabaries .
 %%capture
 # Installs Unsloth, Xformers (Flash Attention) and all other packages!
 !pip install unsloth
